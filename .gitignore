@@ -18,3 +18,6 @@
 .pub-cache/
 .pub/
 /build/
+
+# Coursework brief
+*.docx
