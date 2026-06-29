@@ -31,7 +31,7 @@ class NavDrawer extends StatelessWidget {
                   ),
                   SizedBox(height: 10),
                   Text(
-                    'Yourname Here',
+                    'Connor Watkin',
                     style: TextStyle(
                       color: moodleWhite,
                       fontWeight: FontWeight.bold,
@@ -39,7 +39,7 @@ class NavDrawer extends StatelessWidget {
                     ),
                   ),
                   Text(
-                    'up1234567@myport.ac.uk',
+                    'up2306089@myport.ac.uk',
                     style: TextStyle(
                       color: Colors.white70,
                       fontSize: 12,
